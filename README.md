@@ -1,4 +1,7 @@
-<!-- BADGES SECTION -->
+<!-- BADGES SECTION -->  
+<p align="center">
+  <img src="Achieve Peak Performance in.png" width="100%" />
+</p>
 <p align="center">
 
   <!-- LinkedIn Badge -->
