@@ -63,3 +63,24 @@ A multi-purpose analytics dashboard visualizing sales trends, payment methods, d
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Mohamed-A-Analytics&theme=dark&hide_border=true" height="180" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-A-Analytics&show_icons=true&theme=dark&hide_border=true" height="180"/>
+
+</p>
+
+<p align="center">
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-A-Analytics&layout=compact&theme=dark&hide_border=true" height="160"/>
+
+</p>
+
+---
+
+## 📞 Contact Me
+- 📧 Email: *mggh86938@gmail.com*  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/mohamed-ahmed-44b04b267**  
+- 🙏 Thanks for visiting my profile!
+
+---
