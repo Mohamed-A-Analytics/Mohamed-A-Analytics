@@ -6,7 +6,7 @@
 ---
 
 ## 👋 Hi, I’m Mohamed Ahamed Ahmed  
-### *Data Analyst | Excel & Power BI Specialist | SQL _ Python*
+### *Data Analyst | Excel & Power BI Specialist | SQL _ Python | Tableau*
 
 ---
 
@@ -30,7 +30,7 @@
 
 ## 👨‍💻 About Me
 I am a passionate Data Analyst focused on transforming raw data into meaningful insights.  
-I specialize in Excel dashboards, Power BI visualizations, SQL reporting, and Python data analysis.  
+I specialize in Excel dashboards, Power BI visualizations, SQL reporting, Python data analysis, and Tableau analytics.  
 My goal is to build clean, accurate, and business-ready analytical solutions that support decision-making.
 
 ---
@@ -39,6 +39,7 @@ My goal is to build clean, accurate, and business-ready analytical solutions tha
 
 - 📊 *Power BI*  
 - 📈 *Excel (Advanced Functions & Pivot Tables)*  
+- 📊 *Tableau (Dashboards & Visual Analytics)*  
 - 🗄 *SQL (Queries, Joins, Aggregations)*  
 - 🐍 *Python (Data Cleaning & Analysis)*  
 - 🔍 Data Visualization  
@@ -56,9 +57,9 @@ A multi-purpose analytics dashboard visualizing sales trends, payment methods, d
 
 ---
 
-## 📞 Contact Me
-- 📧 Email: *mggh86938@gmail.com*  
-- 🔗 LinkedIn: **https://www.linkedin.com/in/mohamed-ahmed-44b04b267**  
-- 🙏 Thanks for visiting my profile!
+## 📊 GitHub Stats
 
----
+<p align="center">
+
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Mohamed-A-Analytics&theme=dark&hide_border=true" height="180" />
