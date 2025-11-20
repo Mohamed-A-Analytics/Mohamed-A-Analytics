@@ -27,7 +27,7 @@
 
 ---
 
-<h1 align="center">Hi 👋, I'm Mohamed A. Analytics</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Ahamed. Analytics</h1>
 <h3 align="center">Data Analyst | Excel & Power BI Specialist | SQL | Python</h3>
 
 ---
