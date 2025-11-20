@@ -37,17 +37,17 @@ My goal is to build clean, accurate, and business-ready analytical solutions tha
 
 ## 🛠 Skills & Tools
 
-- 📊 *Power BI*  
-- 📈 *Excel (Advanced Functions & Pivot Tables)*  
-- 📊 *Tableau (Dashboards & Visual Analytics)*  
-- 🗄 *SQL (Queries, Joins, Aggregations)*  
-- 🐍 *Python (Data Cleaning & Analysis)*  
-- 🔍 Data Visualization  
-- 🧹 Data Cleaning & Preparation  
+-  *Power BI*  
+-  *Excel (Advanced Functions & Pivot Tables)*  
+-  *Tableau (Dashboards & Visual Analytics)*  
+-  *SQL (Queries, Joins, Aggregations)*  
+-  *Python (Data Cleaning & Analysis)*  
+-  Data Visualization  
+-  Data Cleaning & Preparation  
 
 ---
 
-## ⭐ Featured Projects
+##  Featured Projects
 
 ### 📌 *Sales Performance Excel Dashboard*
 A full sales analytics dashboard featuring KPIs, top customers, top products, and regional insights.
@@ -57,7 +57,7 @@ A multi-purpose analytics dashboard visualizing sales trends, payment methods, d
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -81,6 +81,6 @@ A multi-purpose analytics dashboard visualizing sales trends, payment methods, d
 ## 📞 Contact Me
 - 📧 Email: *mggh86938@gmail.com*  
 - 🔗 LinkedIn: **https://www.linkedin.com/in/mohamed-ahmed-44b04b267**  
-- 🙏 Thanks for visiting my profile!
+-  Thanks for visiting my profile!
 
 ---
